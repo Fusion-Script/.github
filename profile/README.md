@@ -66,9 +66,7 @@ DevOps: Docker | Kubernetes | Jenkins
 ### 🌐 Connect With Us
 
 - [Website](https://fusion-script.com/)
-- [LinkedIn](https://www.linkedin.com/company/fusionscript)
-- [Twitter](https://twitter.com/fusionscript)
-- [Blog](https://blog.fusionscript.com)
+- [LinkedIn](https://www.linkedin.com/company/fusion-script/)
 
 ### 📈 Our Impact
 
