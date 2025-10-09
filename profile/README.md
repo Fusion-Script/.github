@@ -2,7 +2,7 @@
 
 ![Fusion Script Banner](https://via.placeholder.com/800x200?text=Fusion+Script)
 
-## Innovating the Future, One Line of Code at a Time
+## Innovating the Future, One Line of Code at a Time 
 
 At Fusion Script, we're not just writing code; we're crafting the future. Our passion lies in pushing the boundaries of what's possible in the digital realm, creating solutions that inspire and transform.
 
